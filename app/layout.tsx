@@ -5,7 +5,7 @@ import Link from "next/link";
 
 export const metadata: Metadata = {
   title: "AI Study Tool",
-  description: "UnivAI-style AI study assistant",
+  description: "AI study assistant",
 };
 
 export default function RootLayout({
